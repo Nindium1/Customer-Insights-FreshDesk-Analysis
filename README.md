@@ -37,6 +37,9 @@ The goal: identify recurring support issues, surface operational inefficiencies,
   - Billing & Payments — 6 tickets (15%) — refund delays, auto-renewal failures, tax errors
 - Designed a complete simulated support flow for account access tickets, including SLA timelines, decision trees, escalation paths, and agent response templates
 
+ ### Deliverable
+ https://docs.google.com/document/d/1n_ylBpuHjwc_kcVxC_dVSxKx-3dhUILd/edit?usp=sharing&ouid=103031235082205559866&rtpof=true&sd=true
+
 ---
 
 ### Week 2 — Data Cleaning, Tagging & Sentiment Analysis
@@ -51,6 +54,9 @@ The goal: identify recurring support issues, surface operational inefficiencies,
 | Positive  | 0     |
 
 > Key finding: 100% of tickets were neutral or negative — customers only contact support when experiencing significant friction, not for positive engagement.
+
+### Deliverable
+https://docs.google.com/document/d/1CyocwsA9Blx6dkuYca5FVkmLQ2wKUVUfKzQXW_U5WMA/edit?usp=sharing
 
 ---
 
@@ -67,6 +73,9 @@ The goal: identify recurring support issues, surface operational inefficiencies,
   4. Perfect agent workload balance (10 tickets each) — human performance is already optimized; gains must come from automation
   5. 60% of tickets are problem-related (Technical + Account + Security combined)
 - **Ticket Volume Forecast:** ~30 tickets/week, with low Monday volume and elevated Tue–Fri activity (~4–5 tickets/day)
+
+  ### Deliverable
+  https://docs.google.com/document/d/19xQT5uGtpXhL8wL6BmWgzW1TqgYwxZqjwF81iiE0hJ0/edit?usp=sharing
 
 ---
 
@@ -86,6 +95,9 @@ The goal: identify recurring support issues, surface operational inefficiencies,
   - SLA timers with alerts at 75% and 90% thresholds
   - Auto-escalation to senior agents for unresolved or repeat cases
   - **Expected impact:** First response time reduced from 30–60 min → under 5 min; solves 17% of total ticket volume immediately
+ 
+  ### Deliverable
+  https://docs.google.com/document/d/1V5BipR1aRU94Pj706cv-VjS0IrKEwP2JUzibixkuRPo/edit?usp=sharing
 
 ---
 
